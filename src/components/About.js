@@ -25,33 +25,6 @@ function About() {
                 and CI/CD pipelines. I specialize in designing and maintaining scalable, secure, and production-ready infrastructure, 
                 ensuring smooth deployments and reliable operations.
               </p>
-              <p className="text-muted">
-               <strong>At MicroDegree Certification Programme</strong>
-                • Gained hands-on experience with AWS, Ansible, Docker, Git, Kubernetes, Jenkins, Terraform, and Shell
-                  Scripting through practical labs.
-                • Built and automated infrastructure using Terraform and Ansible.
-                • Containerized applications with Docker and orchestrated deployments using Kubernetes.
-                • Implemented CI/CD pipelines with Jenkins and Git for automated builds and deployments.
-                • Developed shell scripts for automation and system administration tasks.
-                </p>
-              <p className="text-muted">
-                <strong>At Vinva Technologies Pvt Ltd </strong>
-                  • Developed CI/CD pipelines for deploying web applications, built with various technologies like
-                    NodeJs, Python etc.
-                  • Setup EC2 servers for running the applications.
-                  • Created multiple S3 buckets for use with production and testing deployments.
-                  • Deployed multiple open source projects on on-premises servers.
-                  • Deployed applications across multiple cloud providers like AWS, A
-               
-              </p>
-                
-              <p className="text-muted">
-                <strong>Ellucian Higher Education Systems Pvt Ltd </strong>
-                  • Gained practical experience with DevOps tools such as Docker, Jenkins, and Ansible while contributing
-                    to the development of a CI/CD pipeline.
-                  • Streamlined the deployment process for updates and patches by automating a previously manual
-                    workflow, leading to enhanced productivity and reduced time for implementing changes.
-              </p>
             </div>
           </div>
         </div>
