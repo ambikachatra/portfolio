@@ -18,7 +18,7 @@ export default function Home() {
         <div className="profile-wrapper mb-4">
           <img
             src={profileImg}
-            alt="Anuj Verma"
+            alt="Ambika Chatra"
             className="profile-img shadow"
           />
         </div>
@@ -44,7 +44,7 @@ export default function Home() {
 
         <a
           href={resumePDF}
-          download="devops_resume-anuj01.pdf" /* your resume name with extension of .pdf*/
+          download="DevopsResume.pdf" /* your resume name with extension of .pdf*/
           className="btn btn-glow btn-lg px-4 py-2 shadow d-inline-flex align-items-center"
         >
           <FaDownload className="me-2" />
